@@ -1,2 +1,1 @@
-# modern-js-course
-Modern JavaScript From The Beginning
+# Modern JavaScript From The Beginning
